@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @garciaeduardo7143
+- 👋 Hi, I’m Eduardo
 - 👀 I’m interested in DeVSecOps
 - 🌱 I’m currently learning Security Operations Automation
 - 💞️ I’m looking to collaborate on ML
