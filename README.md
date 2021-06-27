@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Eduardo
-- 👀 I’m interested in DeVSecOps
+- 👀 I’m interested in DevSecOps
 - 🌱 I’m currently learning Security Operations Automation
 - 💞️ I’m looking to collaborate on ML
 - 📫 How to reach me garciaeduardo713@yahoo.com
