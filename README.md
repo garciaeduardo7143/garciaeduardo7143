@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Eduardo
-- 👀 I’m interested in DevSecOps
-- 🌱 I’m currently learning Security Operations Automation
-- 💞️ I’m looking to collaborate on ML
+- 👀 I’m interested in Malware Analysis
+- 🌱 I’m currently learning Security Operations 
+- 💞️ I’m looking to collaborate on Open Source Apps
 - 📫 How to reach me garciaeduardo713@yahoo.com
 
 <!---
