@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Eduardo
-- 👀 I’m interested in Natural Language Processing
+- 👀 I’m interested in InfoSec
 - 🌱 I’m currently learning Python, Java, C++
 - 💞️ I’m looking to collaborate on Open Source Apps
 - 📫 How to reach me garciaeduardo713@yahoo.com
