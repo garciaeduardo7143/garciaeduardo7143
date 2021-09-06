@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Eduardo
-- 👀 I’m interested in InfoSec
-- 🌱 I’m currently learning Python, Java, C++
+- 👀 I’m interested in Web App Sec
+- 🌱 I’m currently learning Javascript, SQL, Java, & Python
 - 💞️ I’m looking to collaborate on Open Source Apps
 - 📫 How to reach me garciaeduardo713@yahoo.com
 
